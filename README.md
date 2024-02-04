@@ -2,6 +2,7 @@ Sentiment Analysis on Kaggle Text Dataset
 
 - This repository showcases a comprehensive sentiment analysis project conducted on a text dataset sourced from Kaggle. The primary goal was to categorize each piece of text into positive, negative, or neutral sentiments. The project covers essential aspects such as data collection, cleaning, preprocessing, feature engineering, model selection, and evaluation. The provided Jupyter notebook outlines the entire methodology, key findings, and insights obtained from the sentiment analysis.
 
+
 Key Steps and Features:
 - Data Collection and Cleaning:
   - Identification of the problem.
@@ -19,6 +20,7 @@ Key Steps and Features:
 - Model Selection:
   -Overview of traditional machine learning models (Logistic Regression, SVM) and deep learning models (RNNs, Transformers like BERT).
   - Consideration factors for selecting the appropriate model based on the nature of the problem, data size, complexity, computation time, and scalability.
+
 
 Challenges and Solutions:
   - Discussion on challenges such as imbalanced data, sarcasm, contextual understanding, domain specificity, and data noise.
